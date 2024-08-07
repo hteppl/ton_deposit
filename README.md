@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/TON-0098EA?&style=for-the-badge&logo=ton&logoColor=white)]()
 [![](https://img.shields.io/badge/MIT%20License-98C610?&style=for-the-badge&logoColor=white)]()
 
-A small script written in Python, that allows you to handle transactions on a smart contract in the The Open Network
+A small script written in Python, that allows you to handle transactions on a smart contract in The Open Network
 using the [TON Center HTTP API](https://toncenter.com/).
 
 ## How to install
