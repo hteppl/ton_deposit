@@ -13,6 +13,8 @@ using the [TON Center HTTP API](https://toncenter.com/).
 pip install -r requirements.txt
 ```
 
+Get the TON Center API key: https://t.me/tonapibot
+
 ## Libraries
 
 [aio-libs/aiohttp](https://github.com/valyala/fasthttp) Asynchronous HTTP client/server framework for asyncio and Python
